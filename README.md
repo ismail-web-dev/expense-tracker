@@ -188,3 +188,11 @@ The client runs on `http://localhost:5173`.
 4. Configure Environment Variable:
    - `VITE_API_URL`: `https://your-backend.onrender.com`
 5. Deploy.
+
+---
+
+## Live Production URLs
+
+* **Frontend (Vercel):** [https://expense-tracker-ismail-fff6.vercel.app](https://expense-tracker-ismail-fff6.vercel.app)
+* **Backend API (Render):** [https://expense-tracker-x5of.onrender.com](https://expense-tracker-x5of.onrender.com)
+
